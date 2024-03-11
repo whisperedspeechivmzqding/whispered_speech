@@ -1,0 +1,24 @@
+2024-03-11 09:31:53 | INFO     | DF | Running on torch 2.1.1
+2024-03-11 09:31:53 | INFO     | DF | Running on host ictgpuivm
+2024-03-11 09:31:53 | INFO     | DF | Loading model settings of models
+2024-03-11 09:31:53 | INFO     | DF | Initializing model `deepfilternet2`
+2024-03-11 09:31:53 | INFO     | DF | Found checkpoint ./models/checkpoints/model_28.ckpt.best with epoch 28
+2024-03-11 09:31:53 | INFO     | DF | Running on device cpu
+2024-03-11 09:31:53 | INFO     | DF | Model loaded
+2024-03-11 09:31:53 | INFO     | DF | Enhanced noisy audio file 'id_0_whisper.wav' in 0.3s (RT factor: 0.019)
+2024-03-11 09:32:12 | INFO     | DF | Running on torch 2.1.1
+2024-03-11 09:32:12 | INFO     | DF | Running on host ictgpuivm
+2024-03-11 09:32:12 | INFO     | DF | Loading model settings of models
+2024-03-11 09:32:12 | INFO     | DF | Initializing model `deepfilternet2`
+2024-03-11 09:32:13 | INFO     | DF | Found checkpoint ./models/checkpoints/model_28.ckpt.best with epoch 28
+2024-03-11 09:32:13 | INFO     | DF | Running on device cpu
+2024-03-11 09:32:13 | INFO     | DF | Model loaded
+2024-03-11 09:32:13 | INFO     | DF | Enhanced noisy audio file 'id_0_whisper.wav' in 0.3s (RT factor: 0.020)
+2024-03-11 09:42:37 | INFO     | DF | Running on torch 2.1.1
+2024-03-11 09:42:37 | INFO     | DF | Running on host ictgpuivm
+2024-03-11 09:42:37 | INFO     | DF | Loading model settings of models
+2024-03-11 09:42:37 | INFO     | DF | Initializing model `deepfilternet2`
+2024-03-11 09:42:37 | INFO     | DF | Found checkpoint ./models/checkpoints/model_28.ckpt.best with epoch 28
+2024-03-11 09:42:37 | INFO     | DF | Running on device cpu
+2024-03-11 09:42:37 | INFO     | DF | Model loaded
+2024-03-11 09:42:37 | INFO     | DF | Enhanced noisy audio file 'id_0_whisper.wav' in 0.3s (RT factor: 0.019)
