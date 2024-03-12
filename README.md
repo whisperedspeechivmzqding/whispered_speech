@@ -1,0 +1,3 @@
+Whispering serves as a form of communication in situations where speaking loudly is not practical in everyday life. It is produced by a sound source involving turbulent airflow passing through the vocal cords without vibration. There has been an examination of transforming whispered speech into standard speech. The objective is to assist individuals with damaged vocal cords in communicating using their own voice, eliminating the necessity for medical equipment like an electric artificial larynx. 
+
+Here, the dataset of whispered speech includes the normal speech and whispered speech ( it is created by formant shifting and fundamental frequency removal) (https://www.lintech.org/).   
